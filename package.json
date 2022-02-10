@@ -8,6 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^1.0.5",
     "next": "12.0.10",
     "react": "17.0.2",
     "react-dom": "17.0.2"
@@ -16,8 +17,13 @@
     "@netlify/plugin-nextjs": "^4.2.5",
     "@types/node": "17.0.16",
     "@types/react": "17.0.39",
+    "autoprefixer": "^10.4.2",
     "eslint": "8.8.0",
     "eslint-config-next": "12.0.10",
+    "postcss": "^8.4.6",
+    "postcss-import": "^14.0.2",
+    "postcss-nested": "^5.0.6",
+    "tailwindcss": "^3.0.19",
     "typescript": "4.5.5"
   }
 }
